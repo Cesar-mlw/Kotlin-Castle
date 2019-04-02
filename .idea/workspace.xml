@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eae6766-42f4-4b52-ad0d-722320cda69d" name="Default Changelist" comment="" />
+    <list default="true" id="6eae6766-42f4-4b52-ad0d-722320cda69d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KotlinCastle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinCastle.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KotlinCastle.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="106" column="56" selection-start-line="106" selection-start-column="56" selection-end-line="106" selection-end-column="56" />
+              <folding>
+                <element signature="n#!!block;n#KotlinMessages#0" />
+                <element signature="n#Posicao#0;n#Posicao#0" />
+                <element signature="n#!!block;n#Objeto#0" />
+                <element signature="n#!!block;n#Vela#0" />
+                <element signature="n#!!block;n#Chave#0" />
+                <element signature="n#!!block;n#Bau#0" />
+                <element signature="n#!!block;n#Espada#0" />
+                <element signature="n#!!block;n#Cafe#0" />
+                <element signature="n#!!block;n#Coroa#0" />
+                <element signature="n#!!block;n#Acucar#0" />
+                <element signature="n#!!block;n#retirarObj#0" />
+                <element signature="n#!!block;n#fim#0" />
+                <element signature="n#!!block;n#ir#0" />
+                <element signature="n#!!block;n#pegar#0" />
+                <element signature="n#!!block;n#soltar#0" />
+                <element signature="n#!!block;n#ver#0" />
+                <element signature="n#!!block;n#abrir#0" />
+                <element signature="n#!!block;n#atacar#0" />
+                <element signature="n#!!block;n#carga#1" />
+                <element signature="n#!!block;n#getPalavras#0" />
+                <element signature="n#!!block;n#interpretar#0" />
+                <element signature="n#!!block;n#main#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,6 +55,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,13 +72,14 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,16 +96,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553608470884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554225683534" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,17 +167,20 @@
       <workItem from="1553548387462" duration="2224000" />
       <workItem from="1553638390438" duration="664000" />
       <workItem from="1553639788031" duration="8000" />
+      <workItem from="1553645967243" duration="417000" />
+      <workItem from="1553646411368" duration="37000" />
+      <workItem from="1554211524397" duration="10440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30528000" />
+    <option name="totallyTimeSpent" value="41422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17181209" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1785235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -179,8 +217,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/KotlinCastle.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="106" column="56" selection-start-line="106" selection-start-column="56" selection-end-line="106" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!block;n#KotlinMessages#0" />
+            <element signature="n#Posicao#0;n#Posicao#0" />
+            <element signature="n#!!block;n#Objeto#0" />
+            <element signature="n#!!block;n#Vela#0" />
+            <element signature="n#!!block;n#Chave#0" />
+            <element signature="n#!!block;n#Bau#0" />
+            <element signature="n#!!block;n#Espada#0" />
+            <element signature="n#!!block;n#Cafe#0" />
+            <element signature="n#!!block;n#Coroa#0" />
+            <element signature="n#!!block;n#Acucar#0" />
+            <element signature="n#!!block;n#retirarObj#0" />
+            <element signature="n#!!block;n#fim#0" />
+            <element signature="n#!!block;n#ir#0" />
+            <element signature="n#!!block;n#pegar#0" />
+            <element signature="n#!!block;n#soltar#0" />
+            <element signature="n#!!block;n#ver#0" />
+            <element signature="n#!!block;n#abrir#0" />
+            <element signature="n#!!block;n#atacar#0" />
+            <element signature="n#!!block;n#carga#1" />
+            <element signature="n#!!block;n#getPalavras#0" />
+            <element signature="n#!!block;n#interpretar#0" />
+            <element signature="n#!!block;n#main#0" />
+          </folding>
         </state>
       </provider>
     </entry>
